@@ -29,6 +29,6 @@ Numbers (From number-pad) to destroy Enemy fighter
 ## Run the Project
 1. Clone this project 
 2. Open ChaseCamera (Windows).sln
-3. Download XNA framework
+3. Download XNA framework (If not already installed)
 4. Build the Project
 5. Run the Code (Press F5)
