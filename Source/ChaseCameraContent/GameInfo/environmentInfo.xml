@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EnvironmentInfo>
+  <CameraRollingSpeed>10000</CameraRollingSpeed>
+  <WorldBoundTop>20000</WorldBoundTop>
+  <WorldBoundLeft>35000</WorldBoundLeft>
+  <WorldBoundRight>-35000</WorldBoundRight>
+  <WorldBoundBot>-20000</WorldBoundBot>
+  <BackgroundSize>42000</BackgroundSize>
+  <ViewZone>16000</ViewZone>
+</EnvironmentInfo>
+

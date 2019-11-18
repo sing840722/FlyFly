@@ -1,0 +1,3 @@
+C:\Users\Sing\Desktop\city u\INM379 Computer Games Architectures\ChaseCameraSample\ChaseCameraSample\ChaseCameraContent\obj\x86\Release\ChaseCameraContent.contentprojResolveAssemblyReference.cache
+F:\ChaseCameraSample\ChaseCameraSample\ChaseCameraContent\obj\x86\Release\ChaseCameraContent.contentprojResolveAssemblyReference.cache
+F:\ChaseCameraSample\ChaseCameraContent\obj\x86\Release\ChaseCameraContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WaveInfo>
+  <HP>2</HP>
+  <Velocity>5000</Velocity>
+  <Attack>false</Attack>
+  <AttackRate>0</AttackRate>
+
+  <WavePattern>
+    <Line1>...............a</Line1>
+    <Line2>.........a......</Line2>
+    <Line3>..............b.</Line3>
+    <Line4>..........b.P...</Line4>
+    <Line5>.............b..</Line5>
+    <Line6>.........a......</Line6>
+    <Line7>...............a</Line7>
+  </WavePattern>
+</WaveInfo>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WaveInfo>
+  <HP>12</HP>
+  <Velocity>7000</Velocity>
+  <Attack>true</Attack>
+  <AttackRate>2</AttackRate>
+  <WavePattern>
+    <Line1>..b.A.b.a..</Line1>
+    <Line2>..a...a...b</Line2>
+    <Line3>A..a.B....b</Line3>
+    <Line4>...A..a...a</Line4>
+    <Line5>A..b.B....b</Line5>
+    <Line6>..a.......b</Line6>
+    <Line7>..a.A.a.a..</Line7>
+  </WavePattern>
+  <string>Cos</string>
+  <string>Sin</string>
+</WaveInfo>
