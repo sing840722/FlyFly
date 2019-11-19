@@ -24,7 +24,7 @@ Numbers (From number-pad) to destroy Enemy fighter
 ## Download and Play
 `This game is built for Windows`
 
-[Click Here To Download](www.google.com)
+[Click Here To Download](https://drive.google.com/open?id=16hGR5GjwmlzY6JGYgja0SRZj3r9OprtE)
 
 ## Run the Project
 1. Clone this project 
